@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prabhat-singh05&label=Profile%20views&color=0e75b6&style=flat" alt="prabhat-singh05" /> </p>
 
-- 🌱 I’m currently learning **ML/AI**
+- 🌱 I’m currently learning **Data Engineering**
 
-- 💬 Ask me about **ML/AL, RDBMS, Data visualization repost**
+- 💬 Ask me about **ETL,ELT,Data Modelling, RDBMS, Data Warehouse/Data lake**
 
 - 📫 How to reach me **PrabhatSingh588@gmail.com**
 
