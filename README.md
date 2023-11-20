@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Data Engineering**
 
-- 💬 Ask me about **ETL,ELT,Data Modelling, RDBMS, Data Warehouse/Data lake**
+- 💬 Ask me about **ETL, ELT, Data Modelling, RDBMS, Data Warehouse/Data lake**
 
 - 📫 How to reach me **PrabhatSingh588@gmail.com**
 
